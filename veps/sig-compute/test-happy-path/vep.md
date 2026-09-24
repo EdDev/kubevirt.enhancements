@@ -2,7 +2,7 @@
 title: Test happy path
 vep-number: 4
 creation-date: "2026-09-24"
-status: implementable
+status: provisional
 authors:
   - "@EdDev"
 owning-sig: sig-compute
