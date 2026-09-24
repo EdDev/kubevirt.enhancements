@@ -181,3 +181,4 @@ old virt-launchers in virt-handler.
 
 ### Post-GA
 Remove any remaining code for the old method in virt-handler once it is safe from upgrade perspective.
+<!-- integration test: trivial edit, no front matter added -->
