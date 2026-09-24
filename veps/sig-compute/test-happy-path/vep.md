@@ -2,14 +2,14 @@
 title: Test happy path
 vep-number: 4
 creation-date: "2026-09-24"
-status: provisional
+status: implementable
 authors:
   - "@EdDev"
 owning-sig: sig-compute
 reviewers:
-  - TBD
+  - bob
 approvers:
-  - TBD
+  - alice
 feature-gate: TestFeature
 stage: alpha
 milestone:
